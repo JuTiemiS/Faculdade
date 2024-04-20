@@ -1,0 +1,15 @@
+Exercícios sobre vetores:
+
+1. Faça um programa em C que conte quantos elementos pares existem em um vetor de inteiros.
+2. Desenvolva um programa em C que receba dois vetores de inteiros de mesmo tamanho e calcule o produto escalar entre eles.
+3. Crie um programa em C que verifique se um vetor de inteiros está ordenado de forma crescente.
+4. Faça um programa em C que verifique se um vetor de inteiros contém um determinado valor digitado pelo usuário.
+5. Desenvolva um programa em C que receba um vetor de inteiros e substitua todos os valores negativos por zero.
+6. Escreva um programa em C que determine se um vetor de inteiros é simétrico, ou seja, se ele é igual ao seu vetor invertido.
+7. Preencha um vetor de 10 posições, ordene os valores em crescente e mostre ordenado na tela.
+
+Exercícios sobre matrizes:
+
+8. Escreva um programa em C que calcule e imprima a soma de todos os elementos de uma matriz 3x3 de inteiros.
+9. Faça um programa em C que encontre e imprima o maior elemento de uma matriz 3x3 de inteiros.
+10. Desenvolva um programa em C que verifique se uma matriz 3x3 de inteiros é uma matriz identidade.
